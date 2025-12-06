@@ -1,0 +1,31 @@
+Target pad preprocess pipeline is used
+FashionIQ val - ['shirt'] dataset in classic mode initialized
+extracting fashionIQ ['shirt'] - val index features
+100% 199/199 [01:19<00:00,  2.49it/s]
+FashionIQ val - ['shirt'] dataset in relative mode initialized
+Compute FashionIQ ['shirt'] validation predictions
+100% 64/64 [00:08<00:00,  7.83it/s]
+Compute FashionIQ ['shirt'] validation metrics
+FashionIQ val - ['dress'] dataset in classic mode initialized
+extracting fashionIQ ['dress'] - val index features
+100% 120/120 [00:52<00:00,  2.31it/s]
+FashionIQ val - ['dress'] dataset in relative mode initialized
+Compute FashionIQ ['dress'] validation predictions
+100% 64/64 [00:06<00:00,  9.24it/s]
+Compute FashionIQ ['dress'] validation metrics
+FashionIQ val - ['toptee'] dataset in classic mode initialized
+extracting fashionIQ ['toptee'] - val index features
+100% 168/168 [01:11<00:00,  2.36it/s]
+FashionIQ val - ['toptee'] dataset in relative mode initialized
+Compute FashionIQ ['toptee'] validation predictions
+100% 62/62 [00:07<00:00,  8.06it/s]
+Compute FashionIQ ['toptee'] validation metrics
+
+shirt_recallat10 = 25.07360279560089
+shirt_recallat50 = 41.118744015693665
+dress_recallat10 = 18.195340037345886
+dress_recallat50 = 38.67129385471344
+toptee_recallat10 = 26.05813443660736
+toptee_recallat50 = 45.945945382118225
+average recall10 = 23.109025756518047
+average recall50 = 41.911994417508446
