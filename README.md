@@ -79,4 +79,5 @@ If using this repository, cite the original paper:
 
 > Alberto Baldrati, et al., "Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features," 2022.
 
-Feel free to explore the repository and adapt it for your projects. For any queries, contact the author at [ybm5178@psu.edu](mailto:ybm5178@psu.edu).
+Feel free to explore the repository and adapt it for your projects. For any queries, contact the author at (mailto:uvs5038@psu.edu).
+
